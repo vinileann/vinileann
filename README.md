@@ -1,6 +1,6 @@
 ## About Me
 - 🔭 I’m currently working on: TypeScript, JavaScript, Go, C, C++, Java, HTML, CSS;
-- 🌱 Currently learning: Python, C#, GO for BOT development;
+- 🌱 Currently learning: Python, C#, GO for BOT development, BigQuery;
 # Angular 17+ Software Designer;
 # DB: Working on FireBase;
 # Skills:
