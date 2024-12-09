@@ -4,6 +4,7 @@
 # Angular 17+ Software Designer;
 # DB: Working on FireBase;
 # Skills:
+- Node.js and Package management;
 - Web Scraping;
 - DB<->Software Integrations;
 - Google Maps API;
