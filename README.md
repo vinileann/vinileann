@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**vinileann/vinileann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🔭 I’m currently working on: TypeScript, JavaScript, Go, C, C++, Java, HTML, CSS;
+🌱 Currently learning: Python, C#, GO for BOT development;
+# Angular 17+ Software Designer;
+# DB: Working on FireBase;
+# Skills:
+- Web Scraping;
+- DB<->Software Integrations;
+- Google Maps API;
+- OpenAI prompt usage on chatbots.
+- Landing Page and Figma develper.
+- 5/10 on SQL and NoSQL Databases and software integration;
+# 📫 How to reach me:
+- email: vinileann@gmail.com
