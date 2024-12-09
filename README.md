@@ -8,7 +8,7 @@
 - DB<->Software Integrations;
 - Google Maps API;
 - OpenAI prompt usage on chatbots;
-- Landing Page and Figma develper;
+- Landing Page and Figma development;
 - SQL and NoSQL Databases and software integration;
 # 📫 How to reach me:
 - E-mail: vinileann@gmail.com
