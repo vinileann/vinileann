@@ -10,6 +10,7 @@
 - OpenAI prompt usage on chatbots;
 - Landing Page and Figma development;
 - SQL and NoSQL Databases and software integration;
+- Set Routes and Website deployment;
 # 📫 How to reach me:
 - E-mail: vinileann@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vinicius-leandro-37b5102a9/
