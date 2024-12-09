@@ -9,7 +9,7 @@
 - Google Maps API;
 - OpenAI prompt usage on chatbots;
 - Landing Page and Figma develper;
-- 5/10 on SQL and NoSQL Databases and software integration;
+- SQL and NoSQL Databases and software integration;
 # 📫 How to reach me:
 - E-mail: vinileann@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vinicius-leandro-37b5102a9/
