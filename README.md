@@ -11,4 +11,5 @@
 - Landing Page and Figma develper;
 - 5/10 on SQL and NoSQL Databases and software integration;
 # 📫 How to reach me:
-- email: vinileann@gmail.com
+- E-mail: vinileann@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vinicius-leandro-37b5102a9/
