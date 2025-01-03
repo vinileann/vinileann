@@ -1,15 +1,15 @@
 ## About Me
-- 🔭 I’m currently working on: TypeScript, JavaScript, Go, C, C++, Java, "HTML, CSS";
+- 🔭 I’m currently working on: TypeScript, JavaScript, Go, C, C++, Java, "HTML, CSS", Node.js;
 - 🌱 Currently learning: Python, C#, GO for BOT development, BigQuery, React, TailWindCSS, PHP;
 # Angular 17+ Software Designer;
 # DB: Working on FireBase, PostGres;
 # Skills:
 - Node.js and Package management;
 - Web Scraping (GO and JS);
-- DB (NoSQL and mySQL);
+- DB simple integrations;
 - Google Maps API;
-- OpenAI prompt usage on chatbots;
-- HTML and CSS frontend;
+- OpenAI prompt usage for chatbots;
+- HTML and CSS organization for frontend;
 - Landing Page and Figma simple tools;
 - Learning: SQL and NoSQL management;
 - Set Routes and Website deployment;
