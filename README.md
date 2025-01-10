@@ -1,8 +1,8 @@
 ## About Me
-- 🔭 I’m currently working on: TypeScript, JavaScript, Go, C, C++, Java, "HTML, CSS", Node.js;
-- 🌱 Currently learning: Python, C#, GO for BOT development, BigQuery, React, TailWindCSS, PHP;
+- 🔭 I’m currently working on: TypeScript, JavaScript, Go, C, C++, Java, "HTML, CSS", Node.js, PHP;
+- 🌱 Currently learning: Python, C#, GO for BOT development, BigQuery, React, TailWindCSS, Stripe ($);
 # Angular 17+ Software Designer;
-# DB: Working on FireBase, PostGres;
+# DB: Working on FireBase, PostGres, phpMyAdmin;
 # Skills:
 - Node.js and Package management;
 - Web Scraping (GO and JS);
