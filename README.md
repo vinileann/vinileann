@@ -17,4 +17,4 @@
 # 📫 How to reach me:
 - E-mail: vinileann@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vinicius-leandro-37b5102a9/
-- https://smartbid.tech/
+- Startup: https://smartbid.tech/
