@@ -19,7 +19,7 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 - 🕵️ **Observabilidade**: access log completo com redação de dados sensíveis (LGPD)
 - 🚀 Minha startup: [SmartBid](https://smartbid.tech/)
 
-## 🛠️ Stack do dia a dia
+## 🛠️ Ferramentas e tecnologias do trabalho
 
 **Linguagens**
 
@@ -28,8 +28,16 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web — HTML & CSS**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🤖 IA & Agentes de código**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 **Frontend**
 
@@ -60,7 +68,7 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Git](https://img.shields.io/badge/Git_·_Git_Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Fundamentos (nível inicial)**
 
@@ -70,11 +78,26 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 
 ## ⚙️ Como eu trabalho
 
-- **Uma regra, um lugar** — regra de negócio vive num pacote puro compartilhado, nunca copiada entre apps;
-- **TDD no domínio** — política nova nasce com teste puro antes do código;
-- **Contrato primeiro** — mudança que cruza apps vira um plano por app antes de qualquer commit;
-- **Git Flow + SemVer** — feature/release/hotfix, tag em cada versão e changelog do que mudou e por quê;
-- **Privacidade por padrão** — RLS no banco e redação de dado sensível em log.
+- **Entendo o problema antes da solução** — converso com quem usa, mapeio o fluxo real e só depois desenho a arquitetura;
+- **Planejo antes de codar** — todo projeto começa com um documento de planejamento (veja a seção abaixo), que vira o contrato do que será entregue;
+- **Domínio no centro** — a regra de negócio vive num pacote puro e testado; apps são camadas finas em volta dela;
+- **TDD onde importa** — política nova nasce com teste antes do código, principalmente no domínio e nas integrações críticas;
+- **IA como par de trabalho** — uso Claude Code e Codex no dia a dia para acelerar implementação, revisão e refatoração, mantendo a decisão de arquitetura comigo;
+- **Privacidade por padrão** — RLS no banco, redação de dado sensível em log e LGPD desde o design, não como remendo.
+
+## 🗺️ Como eu planejo um projeto
+
+Antes de qualquer commit, escrevo um **documento de planejamento** da plataforma/projeto
+(ex.: `PLATAFORMA_LM.html` no domínio da plataforma de educação médica), que cobre:
+
+- **Visão & escopo** — o problema, quem usa, o que entra e o que explicitamente fica de fora;
+- **Arquitetura & contratos** — diagrama dos apps, do pacote de domínio e das integrações; toda mudança que cruza apps vira um *plano por app* antes do código;
+- **Modelo de dados** — entidades, relacionamentos, particionamento e políticas de RLS definidos junto com o domínio;
+- **Fases & entregas** — quebra em versões incrementais (SemVer), cada uma com critérios de aceite claros;
+- **Riscos & dependências** — integrações externas (ERP, pagamentos), pontos de falha e plano B;
+- **Rastreabilidade** — changelog do que mudou e por quê, ligando decisão → versão → código.
+
+> O documento é vivo: evolui junto com o projeto e serve de fonte única de verdade para o time (e para os agentes de IA que trabalham comigo).
 
 ## 📊 GitHub
 
