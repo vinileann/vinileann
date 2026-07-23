@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Vinicius Leandro 👋</h1>
+<h1 align="center">Olá! Eu sou o Vinicius Leandro</h1>
 
 <p align="center">
   Desenvolvedor full-stack — construo produtos de ponta a ponta: front, back serverless,
