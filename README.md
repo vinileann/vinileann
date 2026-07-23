@@ -55,6 +55,8 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Serverless_·_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![REST/SOAP](https://img.shields.io/badge/APIs_REST_·_SOAP-5A29E4?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Bancos & Cache**
 
@@ -77,13 +79,17 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**📚 Ensino & Aprendizado contínuo**
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+
 ## ⚙️ Como eu trabalho
 
 - **Entendo o problema antes da solução** — converso com quem usa, mapeio o fluxo real e só depois desenho a arquitetura;
 - **Planejo antes de codar** — todo projeto começa com um documento de planejamento (veja a seção abaixo), que vira o contrato do que será entregue;
 - **Domínio no centro** — a regra de negócio vive num pacote puro e testado; apps são camadas finas em volta dela;
 - **TDD onde importa** — política nova nasce com teste antes do código, principalmente no domínio e nas integrações críticas;
-- **IA como par de trabalho** — uso Claude Code e Codex no dia a dia para acelerar implementação, revisão e refatoração, mantendo a decisão de arquitetura comigo;
+- **IA como par de trabalho** — uso Claude Code e Codex no dia a dia para acelerar implementação, revisão e refatoração, mantendo a decisão de arquitetura, system design e design pattern comigo;
 - **Privacidade por padrão** — RLS no banco, redação de dado sensível em log e LGPD desde o design, não como remendo.
 
 ## 🗺️ Como eu planejo um projeto
