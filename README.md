@@ -17,7 +17,7 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 - 🔐 **Dados**: PostgreSQL com **Row-Level Security** e particionamento · **Redis** com invalidação de cache cruzada entre os apps
 - 🔌 **Integrações**: webservices REST/SOAP de ERP acadêmico, pagamentos (PIX/cartão), geocodificação
 - 🕵️ **Observabilidade**: access log completo com redação de dados sensíveis (LGPD)
-- 🚀 Minha startup: [SmartBid](https://smartbid.tech/)
+- 🏥 Onde trabalho: [Liberdade Médica](https://liberdademedicaedu.com.br/)
 
 ## 🛠️ Ferramentas e tecnologias do trabalho
 
@@ -69,6 +69,7 @@ que compartilham a mesma regra de negócio através de um **pacote de domínio p
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Fundamentos (nível inicial)**
 
@@ -110,4 +111,4 @@ Antes de qualquer commit, escrevo um **documento de planejamento** da plataforma
 
 - ✉️ vinileann@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-leandro-37b5102a9/)
-- 🚀 [SmartBid](https://smartbid.tech/)
+- 🏥 [Liberdade Médica](https://liberdademedicaedu.com.br/)
