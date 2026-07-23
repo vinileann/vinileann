@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Vinicius Leandro</h1>
 
 <p align="center">
-  Desenvolvedor full-stack — construo produtos de ponta a ponta: front, back serverless,
+  Bacharelado em Engenharia de Computação prla UFG. Desenvolvedor full-stack — construo produtos de ponta a ponta: front, back serverless,
   banco com segurança em nível de linha e a regra de negócio num pacote só.
 </p>
 
